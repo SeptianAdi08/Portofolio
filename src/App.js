@@ -9,10 +9,10 @@ function App() {
   return (
     
     
-    <div className="bg-[#f8fafc] w-full h-screen">
+    <div className=" w-full h-screen">
     <Navigation/>
     <Home/>
-    <Footer/>
+    
  
     </div>
     
