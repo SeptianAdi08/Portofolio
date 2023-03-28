@@ -5,6 +5,7 @@ import Navigation from './component/Navigation';
 import Footer from './component/Footer';
 import HeroSection from './component/HeroSection';
 import Projek from './component/Projek';
+import Client from './component/Client';
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
     <Home/>
     <HeroSection/>
     <Projek/>
+    <Client/>
     
  
     </div>
