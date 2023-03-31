@@ -6,7 +6,7 @@ import Footer from './component/Footer';
 import HeroSection from './component/HeroSection';
 import Projek from './component/Projek';
 import Client from './component/Client';
-
+import Blog from './component/Blog';
 
 function App() {
   return (
@@ -18,6 +18,7 @@ function App() {
     <HeroSection/>
     <Projek/>
     <Client/>
+    <Blog/>
     
  
     </div>
