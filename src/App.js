@@ -19,6 +19,7 @@ function App() {
     <Projek/>
     <Client/>
     <Blog/>
+    <Footer/>
     
  
     </div>
