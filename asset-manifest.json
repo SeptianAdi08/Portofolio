@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SeptianAdi08/Portofolio/static/css/main.e2daafbb.css",
+    "main.js": "/SeptianAdi08/Portofolio/static/js/main.48659918.js",
+    "static/js/787.c97c7d0e.chunk.js": "/SeptianAdi08/Portofolio/static/js/787.c97c7d0e.chunk.js",
+    "static/media/vegetable.png": "/SeptianAdi08/Portofolio/static/media/vegetable.887c3a555d96f5096d1f.png",
+    "static/media/portofolio.png": "/SeptianAdi08/Portofolio/static/media/portofolio.0c8def9500f9c8a6fb5b.png",
+    "static/media/shopee.png": "/SeptianAdi08/Portofolio/static/media/shopee.684d39c47e3431719928.png",
+    "static/media/septian.png": "/SeptianAdi08/Portofolio/static/media/septian.e1433ceb0a7a1f5548f0.png",
+    "static/media/BRI.png": "/SeptianAdi08/Portofolio/static/media/BRI.fc81cd7d02e2e8d98503.png",
+    "static/media/Tokopedia.png": "/SeptianAdi08/Portofolio/static/media/Tokopedia.7e86e2510925050047d6.png",
+    "static/media/Gojek.png": "/SeptianAdi08/Portofolio/static/media/Gojek.df155d2e1b65f43ddc1c.png",
+    "index.html": "/SeptianAdi08/Portofolio/index.html",
+    "main.e2daafbb.css.map": "/SeptianAdi08/Portofolio/static/css/main.e2daafbb.css.map",
+    "main.48659918.js.map": "/SeptianAdi08/Portofolio/static/js/main.48659918.js.map",
+    "787.c97c7d0e.chunk.js.map": "/SeptianAdi08/Portofolio/static/js/787.c97c7d0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2daafbb.css",
+    "static/js/main.48659918.js"
+  ]
+}
