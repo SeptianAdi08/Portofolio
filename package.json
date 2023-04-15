@@ -2,7 +2,7 @@
   "name": "myportofolio",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/SeptianAdi08/Portofolio.git",
+  "homepage":" http://septianadi08.github.io/Portofolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
