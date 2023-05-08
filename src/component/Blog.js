@@ -9,9 +9,8 @@ const Blog = () => {
     <div className=" w-full px-4">
     <div className=" max-w-xl mx-auto text-center mb-16">
                 <h4 className=" font-semibold text-lg text-primary mb-2 ">Blog</h4>
-                <h2 className=" font-bold text-dark text-3xl mb-4 lg:text-5xl">Blog Terkini</h2>
-                <p className=" font-medium text-secondary md:text-lg">Bagian ini akan menampilkan beberapa hasil Blog terbaru,
-                 untuk melengkapi website portofolio ini.</p>
+                <h2 className=" font-bold text-dark text-3xl mb-4 lg:text-5xl">Latest Blog </h2>
+                <p className=" font-medium text-secondary md:text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, dicta.</p>
             </div>
     </div>
 
@@ -20,9 +19,9 @@ const Blog = () => {
             <div className=" bg-white rounded-xl overflow-hidden shadow-lg mb-10">
                 <img src="https://source.unsplash.com/360x200?programming" alt="programing" className=" w-full" />
            <div className=" py-8 px-6">
-            <h3 className=" mb-3 font-semibold text-xl text-dark hover:text-primary truncate">Belajar Frontend Web Developer</h3>
-            <p className=" font-medium text-secondary text-base mb-6">Front End Developer merupakan salah satu posisi pekerjaan yang paling banyak diminati oleh perusahaan di Indonesia.</p>
-            <a href="#" className=" font-medium text-sm text-white bg-primary py-2 px-4 rounded-lg hover:opacity-80">Baca Selengkapnya di sini..</a>
+            <h3 className=" mb-3 font-semibold text-xl text-dark hover:text-primary truncate">Learning Frontend Web Developer</h3>
+            <p className=" font-medium text-secondary text-base mb-6">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum iure praesentium distinctio quibusdam asperiores obcaecati veritatis earum dolorum quasi dicta?</p>
+            <a href="#" className=" font-medium text-sm text-white bg-primary py-2 px-4 rounded-lg hover:opacity-80">Read More</a>
            </div>
             </div>
 
@@ -32,10 +31,10 @@ const Blog = () => {
             <div className=" bg-white rounded-xl overflow-hidden shadow-lg mb-10">
                 <img src="https://source.unsplash.com/360x200?cyber" alt="programing" className=" w-full" />
            <div className=" py-8 px-6">
-            <h3 className=" mb-3 font-semibold text-xl text-dark hover:text-primary truncate">Belajar Cyber Scurity</h3>
-            <p className=" font-medium text-secondary text-base mb-6">HACKER di Indonesia memang memiliki konotasi yang negatif. Keahlian meretas dan membobol..
+            <h3 className=" mb-3 font-semibold text-xl text-dark hover:text-primary truncate">Learning Cyber Scurity</h3>
+            <p className=" font-medium text-secondary text-base mb-6">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, natus quidem. Facilis, sint similique! Consectetur sapiente eos aspernatur itaque ea.
             </p>
-            <a href="#" className=" font-medium text-sm text-white bg-primary py-2 px-4 rounded-lg hover:opacity-80">Baca Selengkapnya di sini..</a>
+            <a href="#" className=" font-medium text-sm text-white bg-primary py-2 px-4 rounded-lg hover:opacity-80">Read More</a>
            </div>
             </div>
 
@@ -45,9 +44,9 @@ const Blog = () => {
             <div className=" bg-white rounded-xl overflow-hidden shadow-lg mb-10">
                 <img src="https://source.unsplash.com/360x200?uiux" alt="programing" className=" w-full" />
            <div className=" py-8 px-6">
-            <h3 className=" mb-3 font-semibold text-xl text-dark hover:text-primary truncate">Belajar Dasar UI/UX</h3>
-            <p className=" font-medium text-secondary text-base mb-6">lowongan pekerjaan sebagai UI/UX Designer dalam satu tahun terakhir ada sekitar 6.800. Itu hanya data dari UI/UX Designer saja, </p>
-            <a href="#" className=" font-medium text-sm text-white bg-primary py-2 px-4 rounded-lg hover:opacity-80">Baca Selengkapnya di sini..</a>
+            <h3 className=" mb-3 font-semibold text-xl text-dark hover:text-primary truncate"> Learning UI/UX Fundamental</h3>
+            <p className=" font-medium text-secondary text-base mb-6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, ipsam itaque eveniet maxime ratione eius ab ad vel nihil quas. </p>
+            <a href="#" className=" font-medium text-sm text-white bg-primary py-2 px-4 rounded-lg hover:opacity-80">Read More</a>
            </div>
             </div>
 

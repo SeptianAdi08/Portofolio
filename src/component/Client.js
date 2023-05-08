@@ -11,9 +11,9 @@ const Client = () =>{
 <div className=" container">
     <div className=" w-full px-4">
     <div className=" mx-auto text-center mb-16">
-                <h4 className=" font-semibold text-lg text-primary mb-2">Fake Client</h4>
-                <h2 className=" font-bold text-white text-3xl mb-4 sm:text-4xl lg:text-5xl">Yang Pernah Bekerjasama</h2>
-                <p className=" font-medium  text-secondary md:text-lg">Bagian ini akan menampilkan beberapa hasil Client yang pernah melakukan kerjasama.</p>
+                <h4 className=" font-semibold text-lg text-primary mb-2">Client</h4>
+                <h2 className=" font-bold text-white text-3xl mb-4 sm:text-4xl lg:text-5xl">Lorem ipsum dolor sit amet.</h2>
+                <p className=" font-medium  text-secondary md:text-lg">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae cum architecto dignissimos, repellendus illo explicabo natus quidem repellat voluptatem rem!</p>
             </div>
     </div>
     <div className=" w-full px-4"> 

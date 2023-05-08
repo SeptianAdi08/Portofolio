@@ -18,11 +18,14 @@ const Projek = () => {
         </div>
 
         <div className=" w-full px-4 flex flex-wrap justify-center xl:w-10/12 xl:mx-auto">
-             <div className=" mb-12 p-4 md:w-1/2">
+             <div className=" mb-14 p-4 md:w-1/2">
                 <div className=" rounded-md shadow-md overflow-hidden">
                     <img src={vegetable} alt="Porotfolio.png" />
                 </div>
-                <h3 className=" font-semibold text-dark text-xl mt-5 mb-3">Vegetable Shop</h3>
+               
+                <h3 className=" pt-10">
+                        <a href=" https://septianadi08.github.io/vegetablesShop/" className=" font-semibold text-dark text-xl mt-12 mb-3"> Vegetable Shop</a>
+                    </h3>
                 <p className=" font-medium text-base text-secondary">Vegetable Shop ini menampilkan bahan masakan. vegetable shop ini di buat menggunakan html,css dan javascript</p>
              </div>
              <div className=" mb-12 p-4 md:w-1/2">
