@@ -63,7 +63,7 @@ const Footer =  () => {
    <ion-icon  name="logo-linkedin" className=" fill-current"></ion-icon>
     </a>
 
-    <a href="https://api.whatsapp.com/send/?phone=6282136439298&text&type=phone_number&app_absent=0" target={"_blank"} className=" w-9 h-9 mr-3 rounded-full
+    <a href="https://api.whatsapp.com/send/?phone=6285293329150&text&type=phone_number&app_absent=0" target={"_blank"} className=" w-9 h-9 mr-3 rounded-full
      flex justify-center items-center border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white">
    <ion-icon  name="logo-whatsapp" className=" fill-current"></ion-icon>
     </a>
