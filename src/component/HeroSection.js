@@ -15,7 +15,7 @@ const HeroSection = () => {
 </div>
 <div className=" w-full px-4 lg:w-1/2">
     <h3 className=" font-semibold text-dark text-2xl mb-4 lg:text-3xl lg:pt-10">Contact Me</h3>
-    <p className=" font-medium text-base text-secondary mb-6">Addres: Dibal,Ngemplak,Boyolali Regency, Central Java, Indonesia | Phone: +6282136439298</p>
+    <p className=" font-medium text-base text-secondary mb-6">Addres: Dibal,Ngemplak,Boyolali Regency, Central Java, Indonesia | Phone: +6285293329150</p>
 
 <div className=" flex items-center">
     <a href="https://github.com/SeptianAdi08" target={"_blank"} className=" w-9 h-9 mr-3 rounded-full
@@ -28,7 +28,7 @@ const HeroSection = () => {
    <ion-icon  name="logo-linkedin" className=" fill-current"></ion-icon>
     </a>
 
-    <a href="https://api.whatsapp.com/send/?phone=6282136439298&text&type=phone_number&app_absent=0" target={"_blank"} className=" w-9 h-9 mr-3 rounded-full
+    <a href="https://api.whatsapp.com/send/?phone=6285293329150&text&type=phone_number&app_absent=0" target={"_blank"} className=" w-9 h-9 mr-3 rounded-full
      flex justify-center items-center border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white">
    <ion-icon  name="logo-whatsapp" className=" fill-current"></ion-icon>
     </a>
